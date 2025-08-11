@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+@import url(all.min.css);
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
 
@@ -207,7 +207,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 7 Free';
 				font-weight: 900;
 			}
 
@@ -2290,7 +2290,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 7 Free';
 				font-weight: 900;
 			}
 
@@ -2390,7 +2390,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 7 Free';
 			font-weight: 400;
 		}
 
@@ -2407,7 +2407,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 7 Brands';
 		}
 
 /* Image */
@@ -2681,7 +2681,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 7 Free';
 				font-weight: 400;
 			}
 
@@ -3148,7 +3148,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Font Awesome 5 Free';
+						font-family: 'Font Awesome 7 Free';
 						font-weight: 900;
 					}
 
